@@ -1,6 +1,7 @@
 import java.util.Scanner;
 public class Flames
 {
+    // This is a flames program
     String user_name, crush_name;
     int count;
     Flames()
